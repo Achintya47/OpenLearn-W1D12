@@ -1,3 +1,5 @@
+<IMG SRC="https://github.com/openlearnnitj/.github/blob/main/profile/Gradient%20Elegant%20Line%20Gaming%20Twitter%20Header%20Banner.jpg">
+
 # OpenLearn-W1D12
 Hierarchical Clustering and Dendrograms
 # 🔗 Hierarchical Clustering & Dendrograms – Hands-On

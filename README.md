@@ -13,7 +13,6 @@ This notebook takes you step-by-step through the logic, implementation, and visu
 - ✅ How to compute a **Proximity (Distance) Matrix** using `pdist`
 - ✅ How to build a **Linkage Matrix** using `linkage`
 - ✅ How to draw a **Dendrogram** and interpret merge levels
-- ✅ How to **cut the dendrogram** to form desired number of clusters
 - ✅ How to switch between different **distance metrics** (Euclidean, Manhattan, Cosine)
 - ✅ BONUS: A simple student marks example to **visualize clustering manually**
 
